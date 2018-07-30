@@ -11,6 +11,9 @@ My **Web Starter Kit** offers everything you need and more, including:
 
 I guess that’s it but man does this thing _offer_ all that, you know?
 
+_Note: You may also be interested in the [TypeScript version](https://github.com/ngscheurich/web-starter/tree/typescript)
+of this project._
+
 ## Table of contents
 
 - [Getting started](#getting-started)
