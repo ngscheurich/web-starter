@@ -1,3 +1,5 @@
+# 🕸 Web Starter Kit
+
 Want to get going on a modern web project but just _don’t have the time_ to set
 up a good dev/build process? Well boy howdy have you come to the right place!
 My **Web Starter Kit** offers everything you need and more, including:
