@@ -4,7 +4,7 @@ Want to get going on a modern web project but just _don’t have the time_ to se
 up a good dev/build process? Well boy howdy have you come to the right place!
 My **Web Starter Kit** offers everything you need and more, including:
 
-- [ES2015](https://www.ecma-international.org/ecma-262/6.0/) and [PostCSS](https://postcss.org/) support
+- [TypeScript](https://www.typescriptlang.org/) and [PostCSS](https://postcss.org/) support
 - A ready-to-edit [webpack](https://webpack.js.org/) config
 - A dev server with live reloading
 - Linting tools
@@ -23,7 +23,7 @@ I guess that’s it but man does this thing _offer_ all that, you know?
 
 Clone this repo, but name it something cooler:
 
-    $ git clone https://github.com/ngscheurich/web-starter.git blackmagickisland
+    $ git clone --single-branch -b typescript https://github.com/ngscheurich/web-starter.git blackmagickisland
 
 Now hop on into your new directory and install the project’s JavaScript dependencies:
 
