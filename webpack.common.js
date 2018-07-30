@@ -4,13 +4,13 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  entry: './src/index.js',
+  entry: './src/index.ts',
 
   module: {
     rules: [
       {
-        test: /\.js$/,
-        use: 'babel-loader',
+        test: /\.ts$/,
+        use: 'ts-loader',
         exclude: /node_modules/,
       },
       {
