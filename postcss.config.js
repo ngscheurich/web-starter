@@ -1,5 +1,5 @@
-const postcssPresetEnv = require('postcss-preset-env');
-const cssNano = require('cssnano');
+const postcssPresetEnv = require("postcss-preset-env");
+const cssNano = require("cssnano");
 
 module.exports = {
   plugins: [postcssPresetEnv({ stage: 0 }), cssNano()],

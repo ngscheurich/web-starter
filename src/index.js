@@ -1,3 +1,3 @@
-import styles from './style.css';
+import styles from "./style.css";
 
-console.log('🔮 Ready');
+console.log("🔮 Ready");
