@@ -30,9 +30,7 @@ Clone this repo, but name it something cooler:
 
 Now hop on into your new directory and install the project’s JavaScript dependencies:
 
-    $ yarn install
-
-`npm install` works fine too if that’s more your speed.
+    npm install
 
 That’s it! You’re started!
 
@@ -40,7 +38,7 @@ That’s it! You’re started!
 
 To spin up the dev server, just:
 
-    $ yarn start
+    npm start
 
 You should now have a web server listening—and serving your game—at http://localhost:8080. Cool.
 
@@ -48,7 +46,7 @@ You should now have a web server listening—and serving your game—at http://l
 
 Ready to distribute your game to the ravenous masses?
 
-    $ yarn build
+    npm build
 
 This will make a production-ready version of your project in a directory called `dist`; toss it up on the Internet somewhere. [Netlify](https://www.netlify.com/) might be a good choice.
 
