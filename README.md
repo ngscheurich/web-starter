@@ -9,7 +9,7 @@ My **Web Starter Kit** offers everything you need and more, including:
 - A dev server with live reloading
 - Linting tools
 
-I guess that’s it but man does this thing _offer_ all that, you know?
+I guess that’s it but wow does this thing _offer_ all that, you know?
 
 _Note: You may also be interested in the [TypeScript version](https://github.com/ngscheurich/web-starter/tree/typescript)
 of this project._
@@ -26,7 +26,7 @@ of this project._
 
 Clone this repo, but name it something cooler:
 
-    $ git clone https://github.com/ngscheurich/web-starter.git blackmagickisland
+    git clone https://github.com/ngscheurich/web-starter.git blackmagickisland
 
 Now hop on into your new directory and install the project’s JavaScript dependencies:
 
@@ -40,11 +40,11 @@ To spin up the dev server, just:
 
     npm start
 
-You should now have a web server listening—and serving your game—at http://localhost:8080. Cool.
+You should now have a web server ready to roll at http://localhost:8080. Cool.
 
 ## Production
 
-Ready to distribute your game to the ravenous masses?
+Ready to distribute your project?
 
     npm build
 
